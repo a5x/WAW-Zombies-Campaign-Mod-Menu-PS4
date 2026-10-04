@@ -1,2 +1,13 @@
 # WAW-Zombies-Mod-Menu-PS4
-Call of duty World at War PS4 port by 01cedric, mod menu zombies
+
+WIP but:
+
+Player Options
+Fun Options
+Weapons Options
+Game Settings
+Host Options
+VIP Options
+Admin Options
+
+this zombies menu is a port of my waw multiplayer menu
