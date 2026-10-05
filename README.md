@@ -1,4 +1,4 @@
-# WAW-Zombies-Mod-Menu-PS4
+# WAW-Zombies-Campaign-Mod-Menu-PS4
 
 WIP but:
 
@@ -11,3 +11,4 @@ VIP Options
 Admin Options
 
 this zombies menu is a port of my waw multiplayer menu
+ also this menu works in campaign mode
