@@ -1,5 +1,4 @@
 # WAW-Zombies-Campaign-Mod-Menu-PS4
-Will be available today, 10/06/2026
 
 Discord server: https://discord.gg/nfS2YU9ksQ
 
