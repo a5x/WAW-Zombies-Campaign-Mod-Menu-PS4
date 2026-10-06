@@ -2,6 +2,7 @@
 
 Discord server: https://discord.gg/nfS2YU9ksQ
 
+[Multiplayer version](https://github.com/a5x/WAW-Multiplayer-Mod-Menu-PS4/tree/main)
 
 For ZOMBIES THIS MENU HAVE :
 - ***Player Options***
