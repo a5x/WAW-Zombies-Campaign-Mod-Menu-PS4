@@ -76,4 +76,4 @@ If you find a bug or have an idea for a new feature:
 
 5. or join discord server ans report your bugs in #waw-mp-bug
 
-**Thank you for using MAG Menu!**
+**Thank you for using MAG Menu!** 
